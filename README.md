@@ -1,5 +1,5 @@
 # Automatic_Generation_Model
-Automatic generation model of a geological profile map based on the geological report
+# Automatic generation model of a geological profile map based on the geological report
 
 This is the codes of the paper 《A semi-automatic approach for generating geological profiles by integrating multi-source data》
 
