@@ -17,6 +17,6 @@ def  pdfCrop(path,start_page,save_path):
     output.write(outputStream)
 
 if __name__ == '__main__':
-   inputfile = r"D:\code\bp\pmt\dem\infor_extract\infor_ex\国奖.pdf"
-   outputfile = r"D:\code\bp\pmt\dem\infor_extract\infor_ex\国奖-1.pdf"    
+   inputfile = r"D:\code\bp\pmt\dem\infor_extract\infor_ex\input.pdf"
+   outputfile = r"D:\code\bp\pmt\dem\infor_extract\infor_ex\output.pdf"    
    pdfCrop(inputfile,5,outputfile)
